@@ -1,1 +1,1 @@
-# cheappie
+# Free AI at api.airforce
